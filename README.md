@@ -1,2 +1,4 @@
 # hello-world
-new repository
+
+Hi,
+som here,i like php language and also fond of java 
